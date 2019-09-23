@@ -13,7 +13,6 @@ def using_pop(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
   artists.pop
 p artists
-
 end
 
 def using_pop_with_args(artists)
