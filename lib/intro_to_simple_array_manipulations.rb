@@ -18,7 +18,7 @@ end
 
 def using_pop_with_args(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
-  artists.
+  artists.pop(2)
 end
 
 def using_shift
