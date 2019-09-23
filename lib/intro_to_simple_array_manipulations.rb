@@ -52,4 +52,6 @@ def using_flatten(artists)
 end
 
 def using_delete
+  artists = ["Hozier","Ariana Grande","Usher"]
+  artists.delete
   
