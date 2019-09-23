@@ -31,4 +31,6 @@ end
 
 def using_concat(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
-  artists.concat=
+  artists.concat(["Katy Perry", "Miley Cyrus"])
+end
+
