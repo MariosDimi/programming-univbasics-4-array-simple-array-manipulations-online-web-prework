@@ -41,5 +41,10 @@ end
 
 def using_uniq(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
+  artists.uniq
+end
+
+def using_flatten(artists)
+  artists = ["Hozier","Ariana Grande","Usher"]
   
   
