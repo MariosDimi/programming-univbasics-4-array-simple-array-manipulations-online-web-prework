@@ -16,7 +16,9 @@ p artists
 
 end
 
-def using_pop_with_args
+def using_pop_with_args(artists)
+  artists = ["Hozier","Ariana Grande","Usher"]
+  artists.
 end
 
 def using_shift
