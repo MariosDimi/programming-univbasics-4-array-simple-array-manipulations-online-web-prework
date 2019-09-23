@@ -39,4 +39,7 @@ def using_insert(artists)
   artists.insert(3,"Bebe Rexa")
 end
 
+def using_uniq(artists)
+  artists = ["Hozier","Ariana Grande","Usher"]
+  
   
