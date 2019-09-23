@@ -5,4 +5,22 @@ def using_push(artists)
 end
 
 def using_unshift(artists)
-  
+  artists = ["Hozier","Ariana Grande","Usher"]
+  artists.unshift("Bebe Rexa")
+end
+
+def using_pop(artists)
+  artists = ["Hozier","Ariana Grande","Usher"]
+  artists.pop
+p artists
+
+end
+
+def using_pop_with_args
+end
+
+def using_shift
+  artists = ["Hozier","Ariana Grande","Usher"]
+  Hozier = artists.shift
+end
+
