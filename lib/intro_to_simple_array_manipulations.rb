@@ -24,3 +24,6 @@ def using_shift
   Hozier = artists.shift
 end
 
+def using_shift_with_args(artists)
+  artists = ["Hozier","Ariana Grande","Usher"]
+  
