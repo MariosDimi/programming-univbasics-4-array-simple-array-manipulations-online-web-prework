@@ -58,5 +58,6 @@ end
 
 def using_delete_at(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
-  artists.delete_at
+  artists.delete_at(0)
+end
   
