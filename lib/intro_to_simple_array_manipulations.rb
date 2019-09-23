@@ -34,3 +34,5 @@ def using_concat(artists)
   artists.concat(["Katy Perry", "Miley Cyrus"])
 end
 
+def using_insert(artists)
+  
