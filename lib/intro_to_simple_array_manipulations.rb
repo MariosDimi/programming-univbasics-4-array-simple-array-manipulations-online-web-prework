@@ -28,3 +28,7 @@ def using_shift_with_args(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
   artists.shift(2)
 end
+
+def using_concat(artists)
+  artists = ["Hozier","Ariana Grande","Usher"]
+  
