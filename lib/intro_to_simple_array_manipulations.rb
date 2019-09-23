@@ -49,4 +49,7 @@ def using_flatten(artists)
   a1 = ["Chainsmokers","Rhianna"]
   a2 = [artists, a1]
   a2.flatten
+end
+
+def using_delete
   
