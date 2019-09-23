@@ -36,4 +36,7 @@ end
 
 def using_insert(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
+  artists.insert(3,"Bebe Rexa")
+end
+
   
