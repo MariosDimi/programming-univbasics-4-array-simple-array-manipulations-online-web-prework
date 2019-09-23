@@ -47,5 +47,5 @@ end
 def using_flatten(artists)
   artists = ["Hozier","Ariana Grande","Usher"]
   a1 = ["Chainsmokers","Rhianna"]
-  
+  a2 = []
   
