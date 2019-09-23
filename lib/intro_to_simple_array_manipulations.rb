@@ -53,5 +53,5 @@ end
 
 def using_delete
   artists = ["Hozier","Ariana Grande","Usher"]
-  artists.delete
+  artists.delete("Usher")
   
