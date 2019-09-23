@@ -35,4 +35,5 @@ def using_concat(artists)
 end
 
 def using_insert(artists)
+  artists = ["Hozier","Ariana Grande","Usher"]
   
